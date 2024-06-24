@@ -22,6 +22,10 @@ Luego entramos a la carpeta app en terminal con el comando:
 ```sh
 cd app
 ```
+Si no tiene la carpeta env, podemos crear con el comando:
+```sh
+python3 -m venv env
+```
 Activamos el entorno virtual con:
 ```sh
 source env/bin/activate 
